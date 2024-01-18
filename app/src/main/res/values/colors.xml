@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- colord for tflite -->
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorPrimaryLight">#455A64</color>
+    <color name="colorPrimaryOverText">#FFFFFF</color>
+    <color name="colorPrimaryOverTextLight">#AAAAAA</color>
+    <color name="colorSecond">#B75D69</color>
+    <color name="colorSecondDark">#86444D</color>
+    <color name="colorSecondLight">#CA8991</color>
+    <color name="colorThird">#49A078</color>
+    <color name="colorThirdDark">#367558</color>
+    <color name="colorThirdLight">#7AB99C</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#D9D919</color>
+    <color name="colorRed">#cc0000</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="TRANSPARENT">#00000000</color>
+
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDarkBackground">#212121</color>
+    <color name="colorDarkBackgroundText">#FAFAFA</color>
+
+    <color name="spinnerValid">#A5D6A7</color>
+    <color name="spinnerInvalid">#E1BEE7</color>
+
+    <string name="Medico">Medico</string>
+    <string name="Infermiere">Infermiere</string>
+    <string name="Paziente">Paziente</string>
+
+    <string-array name="lavoro">
+        <item>@string/Medico</item>
+        <item>@string/Infermiere</item>
+        <item>@string/Paziente</item>
+    </string-array>
+</resources>
